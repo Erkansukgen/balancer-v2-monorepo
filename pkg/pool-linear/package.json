@@ -30,7 +30,7 @@
   },
   "dependencies": {
     "@balancer-labs/v2-interfaces": "workspace:*",
-    "@balancer-labs/v2-pool-utils": "workspace:*",
+    "@balancer-labs/v2-pool-utils": "1.0.0",
     "@balancer-labs/v2-solidity-utils": "workspace:*"
   },
   "devDependencies": {
